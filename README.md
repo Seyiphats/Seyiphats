@@ -5,18 +5,18 @@
 </div>
 
 <div> <img src="https://komarev.com/ghpvc/?username=seyiphats&style=flat-square&color=blue" alt="Profile"/>
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://giphy.com/embed/kbu8xsXRJZVtNqveKw">
 </div>
 
 <div>
 
-## About me <img src="https://media.giphy.com/media/kbu8xsXRJZVtNqveKw/giphy.gif" width="384" height="480"/>
+## About me <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="15"/>
 I am a Google certified UI/UX Designer. 
 
 ## Languages, Skills & Tools <img src="https://media.giphy.com/media/hvXcXEyDpdV1uZJ0nJ/giphy.gif" width="25"/>
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="40" height="40"/>;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="xd alt="xd width="40" height="40"/>;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="xd" alt="xd" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
