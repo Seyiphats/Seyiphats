@@ -5,7 +5,7 @@
 </div>
 
 <div> <img src="https://komarev.com/ghpvc/?username=seyiphats&style=flat-square&color=blue" alt="Profile"/>
-<img align="right" alt="Coding" width="384" src="https://media.giphy.com/media/kbu8xsXRJZVtNqveKw/giphy.gif">
+<img align="right" alt="Coding" width="284" src="https://media.giphy.com/media/kbu8xsXRJZVtNqveKw/giphy.gif">
 </div>
 
 <div>
@@ -27,3 +27,21 @@ I am a Google certified UI/UX Designer.
 - 🤔 I’m looking for help with Internship opportunities, Career advice, Tips. 
 - 📫 How to reach me: +234 810 999 9489
 - ⚡ Fun fact: I can eat anything, everthing 😅 
+  
+  ## Connect with me <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif" width="20"/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seyiphats)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Marvellous-fatunsin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/seyiphats_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sfatunsin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/seyiphats) 
+
+# Github Stats 🧑‍💻
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/seyiphats"><img alt="Seyiphats' Github Stats" src="https://github-readme-stats.vercel.app/api?username=seyiphats&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/seyiphats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=seyiphats&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/seyiphats"><img alt="Seyiphats' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatlines&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
