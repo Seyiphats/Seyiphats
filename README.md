@@ -5,7 +5,7 @@
 </div>
 
 <div> <img src="https://komarev.com/ghpvc/?username=seyiphats&style=flat-square&color=blue" alt="Profile"/>
-<img align="right" alt="Coding" width="320" src="https://giphy.com/embed/kbu8xsXRJZVtNqveKw">
+<img align="right" alt="Coding" width="384" src="https://media.giphy.com/media/kbu8xsXRJZVtNqveKw/giphy.gif">
 </div>
 
 <div>
