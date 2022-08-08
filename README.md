@@ -11,7 +11,7 @@
 <div>
 
 ## About me <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="15"/>
-I am a Google certified UI/UX Designer. 
+Google certified junior UI/UX designer | Focused on app design , web design, accessibility and user interface design.
 
 ## Languages, Skills & Tools <img src="https://media.giphy.com/media/hvXcXEyDpdV1uZJ0nJ/giphy.gif" width="25"/>
   <div>
@@ -21,9 +21,9 @@ I am a Google certified UI/UX Designer.
 </div>
 
  ## Status <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" height="15" width="15"/>
-- 🔭 I’m currently working on Product Designs
-- 🌱 I’m currently learning FrontEnd Web Development 
-- 👯 I’m looking to collaborate on Learning 
+- 🔭 I’m currently working on Product Designs (UI/UX)
+- 🌱 I’m currently learning User Interface Specialization 
+- 👯 I’m looking to collaborate on Learning UI/UX Design 
 - 🤔 I’m looking for help with Internship opportunities, Career advice, Tips. 
 - 📫 How to reach me: +234 810 999 9489
 - ⚡ Fun fact: I can eat anything, everthing 😅 
